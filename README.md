@@ -31,5 +31,5 @@ Separation is expressed as a percentage, with a value of 100% being interpreted 
 For each object is computed «Dc», that is the distance to the centroid (computed as the mean of the coordinates of the objects).
 Computed with Python
 
-
+![Screenshot (17)](https://user-images.githubusercontent.com/58270634/190856853-3875ef72-fa5b-4f70-b037-6aecbb162d9f.png)
 

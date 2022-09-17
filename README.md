@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/58270634/190857171-51b9481c-80af-4092-
 
 # Some problems
 
-
+![Screenshot (19)](https://user-images.githubusercontent.com/58270634/190857291-54f65cbb-23a6-47c5-bab4-4c9665e6ccec.png)
 
 # Conclusions
 

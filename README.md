@@ -21,3 +21,4 @@ When evaluating the placement score of an object, the ant counts how many nearby
 As a result, groups of smaller objects will tend to «force out» larger objects!
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/58270634/190856674-2e2117fa-f4ac-4779-a54d-8f0079898243.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/58270634/190856759-7422a59a-63ef-40db-a5a3-4e41f3c85842.png)

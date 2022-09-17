@@ -22,3 +22,14 @@ As a result, groups of smaller objects will tend to «force out» larger objects
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/58270634/190856674-2e2117fa-f4ac-4779-a54d-8f0079898243.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/58270634/190856759-7422a59a-63ef-40db-a5a3-4e41f3c85842.png)
+
+# Performance 
+
+Separation
+
+Separation is expressed as a percentage, with a value of 100% being interpreted as ideal. Separation measures the degree to which objects of similar size are kept apart from objects of different size (i.e., the degree of “segregation”).
+For each object is computed «Dc», that is the distance to the centroid (computed as the mean of the coordinates of the objects).
+Computed with Python
+
+
+

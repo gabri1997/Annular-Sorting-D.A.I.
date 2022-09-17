@@ -19,3 +19,5 @@ The core algorithm
 Laden ants carry objects around the environment and at every step (after delay) they evaluate what placement score the carried object would have if it were to be deposited at the current point. That score will be used to probabilistically determine whether the object should be dropped. 
 When evaluating the placement score of an object, the ant counts how many nearby objects fall within the minimum perimeter (these contributes with a predefined penalty) and how many fall within the maximum perimeter (these contributes with a predefined bonus).
 As a result, groups of smaller objects will tend to «force out» larger objects!
+
+![Screenshot (12)](https://user-images.githubusercontent.com/58270634/190856674-2e2117fa-f4ac-4779-a54d-8f0079898243.png)

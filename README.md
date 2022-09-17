@@ -32,5 +32,18 @@ Separation is expressed as a percentage, with a value of 100% being interpreted 
 For each object is computed «Dc», that is the distance to the centroid (computed as the mean of the coordinates of the objects).
 Computed with Python
 
-![Screenshot (17)](https://user-images.githubusercontent.com/58270634/190856853-3875ef72-fa5b-4f70-b037-6aecbb162d9f.png)
+# Results 
+
+https://user-images.githubusercontent.com/58270634/190857171-51b9481c-80af-4092-8abf-d5fdd7d05c3c.mp4
+
+# Some problems
+
+
+
+# Conclusions
+
+The experiments show that the ants are typically able to obtain a visible cluster in which small objects are positioned in the center of it.
+Typically the value of separation that we can reach is about 40% considering an equal distribution of objects for each size. 
+The results show that when we don’t have the same number of objects (for each size) the annular sorting is not working as well as having an equal distribution, it encounters more difficulties to create a visible cluster and  it requires more attempts, but the final separation values are not too different.
+The separation results are not exciting maybe because some small objects could remain too much far from the cluster (not inside) and this may cause a shift of the centroid.
 

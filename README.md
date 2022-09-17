@@ -1,3 +1,4 @@
+![immagine](https://user-images.githubusercontent.com/58270634/190856896-31611e85-1546-4ed1-9038-0a85818b2066.png)
 # Annular-Sorting-D.A.I
 This is a project done for the course of Distributed Artificial Intelligence 
 
